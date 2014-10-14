@@ -1,0 +1,14 @@
+{
+    "author": {
+        "name": "Caleb James DeLisle",
+        "email": "cjd@cjdns.fr",
+        "url": "irc://irc.hypeirc.net/#cjdns"
+    },
+    "name": "freewifi",
+    "description": "Script for connecting to wifi.free.fr",
+    "version": "0.1.0",
+    "dependencies": {
+        "nthen": "~0.1.1",
+        "dhcpjs": "~0.2.0"
+    }
+}
